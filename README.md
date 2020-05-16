@@ -1,2 +1,2 @@
 # HuffmanCoding
-Data Structures Programming Project 2. After inputting a file into the program, output a file of the text as 1s and 0s according to Huffman Coding. Also, print out a table of the characters in the text files, their frequencies, and their binary representation
+Program that takes an input text and outputs the Huffman Coding of that text. It also prints out a table of the characters in the input file, the frequencies of each character, and their Huffman binary representation.
